@@ -1,0 +1,13 @@
+# Ignore local environment file
+.env
+venv/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.DS_Store

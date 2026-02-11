@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "article": "Article L. 217-4",
+    "type_question": "Explicite",
+    "question": "Que stipule l'article L. 217-4 concernant l'usage spécial recherché par le consommateur ?",
+    "reponse_attendue": "Le bien est conforme s'il est propre à tout usage spécial recherché par le consommateur, porté à la connaissance du vendeur au moment de la conclusion du contrat et accepté par ce dernier."
+  },
+  {
+    "id": 2,
+    "article": "Article L. 217-4",
+    "type_question": "Conceptuelle",
+    "question": "Si un acheteur précise une exigence spécifique au vendeur lors de l'achat et que celui-ci l'accepte, le produit doit-il respecter cette exigence pour être considéré comme conforme ?",
+    "reponse_attendue": "Oui, le respect de l'usage spécial validé par le vendeur devient un critère de conformité contractuel."
+  },
+  {
+    "id": 3,
+    "article": "Article L. 217-4",
+    "type_question": "Complexe",
+    "question": "J'ai acheté un ordinateur en précisant au vendeur que je voulais faire du montage vidéo 4K, ce qu'il a validé. Or, l'ordinateur plante dès que je lance un rendu. Puis-je invoquer un défaut de conformité même si l'ordinateur fonctionne bien pour de la bureautique ?",
+    "reponse_attendue": "Oui, vous pouvez invoquer un défaut de conformité car le bien n'est pas propre à l'usage spécial que vous avez spécifié et qui a été accepté par le vendeur."
+  },
+  {
+    "id": 4,
+    "article": "Article L. 217-5",
+    "type_question": "Explicite",
+    "question": "Quels sont les critères de conformité énumérés à l'article L. 217-5 en plus des critères du contrat ?",
+    "reponse_attendue": "Le bien doit être propre à l'usage habituellement attendu d'un bien de même type et posséder les qualités que le consommateur peut légitimement attendre eu égard aux déclarations publiques (publicité, étiquetage)."
+  },
+  {
+    "id": 5,
+    "article": "Article L. 217-5",
+    "type_question": "Conceptuelle",
+    "question": "Un produit doit-il nécessairement correspondre à l'usage habituellement attendu d'un bien de même type pour être conforme ?",
+    "reponse_attendue": "Oui, sauf si le consommateur a consenti expressément à une caractéristique particulière s'écartant de ces critères."
+  },
+  {
+    "id": 6,
+    "article": "Article L. 217-5",
+    "type_question": "Complexe",
+    "question": "J'ai acheté une montre connectée \"étanche\" selon la publicité, mais le manuel dit qu'elle ne résiste qu'aux éclaboussures. Elle a pris l'eau sous la douche. Le vendeur est-il responsable au regard des déclarations publiques faites dans la publicité ?",
+    "reponse_attendue": "Oui, le vendeur est tenu par les déclarations publiques (publicité) sur les qualités du bien, sauf s'il prouve qu'il ne les connaissait pas ou qu'elles ont été rectifiées avant la vente."
+  },
+  {
+    "id": 7,
+    "article": "Article L. 217-12",
+    "type_question": "Explicite",
+    "question": "Selon l'article L. 217-12, dans quel cas le vendeur peut-il refuser de procéder selon le choix opéré par le consommateur (réparation ou remplacement) ?",
+    "reponse_attendue": "Le vendeur peut refuser le choix du consommateur si celui-ci est impossible ou entraîne des coûts disproportionnés par rapport à l'autre option, compte tenu de la valeur du bien ou de l'importance du défaut."
+  },
+  {
+    "id": 8,
+    "article": "Article L. 217-12",
+    "type_question": "Conceptuelle",
+    "question": "Le vendeur a-t-il le droit de m'imposer la réparation de mon appareil en panne si je demande son remplacement à neuf ?",
+    "reponse_attendue": "Oui, mais uniquement si le remplacement entraîne un coût disproportionné pour le vendeur par rapport à la réparation."
+  },
+  {
+    "id": 9,
+    "article": "Article L. 217-12",
+    "type_question": "Complexe",
+    "question": "Mon lave-linge est en panne. Je demande un remplacement à neuf, mais le vendeur me dit que changer la petite pièce défectueuse coûte 10 fois moins cher et qu'il va donc procéder à la réparation. A-t-il le droit de faire cela ?",
+    "reponse_attendue": "Oui, le vendeur est en droit d'imposer la réparation car le coût du remplacement est manifestement disproportionné par rapport à la réparation."
+  },
+  {
+    "id": 10,
+    "article": "Article L. 221-18",
+    "type_question": "Explicite",
+    "question": "Quel est le délai de rétractation prévu par l'article L. 221-18 pour un contrat conclu à distance ?",
+    "reponse_attendue": "Le délai de rétractation est de quatorze jours."
+  },
+  {
+    "id": 11,
+    "article": "Article L. 221-18",
+    "type_question": "Conceptuelle",
+    "question": "Combien de temps ai-je pour changer d'avis et renvoyer un produit acheté sur internet sans avoir à me justifier ?",
+    "reponse_attendue": "Vous disposez de 14 jours à compter de la réception du bien pour exercer votre droit de rétractation sans justification."
+  },
+  {
+    "id": 12,
+    "article": "Article L. 221-18",
+    "type_question": "Complexe",
+    "question": "J'ai reçu ma commande de vêtements achetée en ligne le 1er du mois. Nous sommes le 10. Puis-je encore renvoyer le colis et demander le remboursement sans donner de motif ?",
+    "reponse_attendue": "Oui, car le délai de 14 jours cours à compter de la réception du bien, vous êtes donc toujours dans les temps."
+  },
+  {
+    "id": 13,
+    "article": "Article L. 221-28",
+    "type_question": "Explicite",
+    "question": "Citez trois types de contrats pour lesquels le droit de rétractation ne peut être exercé selon l'article L. 221-28.",
+    "reponse_attendue": "Les biens confectionnés selon les spécifications du consommateur (personnalisés), les biens susceptibles de se détériorer rapidement, et les biens descellés par le consommateur ne pouvant être renvoyés pour des raisons d'hygiène."
+  },
+  {
+    "id": 14,
+    "article": "Article L. 221-28",
+    "type_question": "Conceptuelle",
+    "question": "Puis-je me rétracter après avoir acheté un bien personnalisé ou un logiciel que j'ai déjà descellé ?",
+    "reponse_attendue": "Non, le droit de rétractation est exclu pour les biens nettement personnalisés et pour les logiciels descellés après livraison."
+  },
+  {
+    "id": 15,
+    "article": "Article L. 221-28",
+    "type_question": "Complexe",
+    "question": "J'ai commandé une bague gravée à mes initiales sur un site web. Elle ne me plaît pas. Le site refuse le retour en disant que c'est du \"sur-mesure\". Ont-ils raison légalement ?",
+    "reponse_attendue": "Oui, le site a raison car le droit de rétractation ne s'applique pas aux biens confectionnés selon les spécifications du consommateur ou nettement personnalisés."
+  },
+  {
+    "id": 16,
+    "article": "Article L. 216-1",
+    "type_question": "Explicite",
+    "question": "À défaut d'indication de date, quel est le délai maximal de livraison prévu par l'article L. 216-1 après la conclusion du contrat ?",
+    "reponse_attendue": "À défaut d'indication, le professionnel doit livrer le bien sans retard injustifié et au plus tard trente jours après la conclusion du contrat."
+  },
+  {
+    "id": 17,
+    "article": "Article L. 216-1",
+    "type_question": "Conceptuelle",
+    "question": "Si aucune date n'est précisée lors de ma commande, combien de temps le vendeur a-t-il maximum pour me livrer ?",
+    "reponse_attendue": "Le vendeur a un délai maximum de 30 jours pour livrer le bien."
+  },
+  {
+    "id": 18,
+    "article": "Article L. 216-1",
+    "type_question": "Complexe",
+    "question": "J'ai commandé un canapé il y a 40 jours. Aucune date de livraison n'était indiquée. Je n'ai toujours rien reçu. Puis-je exiger la livraison ou annuler ma commande ?",
+    "reponse_attendue": "Oui, le délai légal de 30 jours étant dépassé, vous pouvez mettre le vendeur en demeure de livrer, et à défaut d'exécution, résoudre (annuler) le contrat."
+  },
+  {
+    "id": 19,
+    "article": "Article L. 215-1",
+    "type_question": "Explicite",
+    "question": "Quelles sont les obligations d'information du professionnel avant la reconduction tacite d'un contrat selon l'article L. 215-1 ?",
+    "reponse_attendue": "Le professionnel doit informer le consommateur par écrit, entre 3 mois et 1 mois avant la date limite de résiliation, de la possibilité de ne pas reconduire le contrat."
+  },
+  {
+    "id": 20,
+    "article": "Article L. 215-1",
+    "type_question": "Conceptuelle",
+    "question": "Mon abonnement s'est renouvelé automatiquement sans que je sois prévenu. Puis-je le résilier gratuitement ?",
+    "reponse_attendue": "Oui, si le professionnel ne vous a pas informé dans les délais légaux, vous pouvez mettre un terme au contrat gratuitement à tout moment après la date de reconduction."
+  },
+  {
+    "id": 21,
+    "article": "Article L. 215-1",
+    "type_question": "Complexe",
+    "question": "J'ai un abonnement à une salle de sport qui s'est renouvelé hier pour un an. Je n'ai reçu aucun courrier ou mail me prévenant de la date limite pour résilier le mois dernier. Puis-je mettre fin au contrat immédiatement et être remboursé ?",
+    "reponse_attendue": "Oui, vous pouvez résilier immédiatement et sans frais car l'information obligatoire n'a pas été envoyée. Les avances versées après la reconduction doivent vous être remboursées sous 30 jours."
+  },
+  {
+    "id": 22,
+    "article": "Article L. 111-1",
+    "type_question": "Explicite",
+    "question": "Liste les informations que le professionnel doit communiquer au consommateur avant la conclusion du contrat selon l'article L. 111-1.",
+    "reponse_attendue": "Les caractéristiques essentielles du bien/service, le prix, la date/délai de livraison, l'identité du professionnel, et l'existence des garanties légales."
+  },
+  {
+    "id": 23,
+    "article": "Article L. 111-1",
+    "type_question": "Conceptuelle",
+    "question": "Un vendeur est-il obligé de m'informer sur les caractéristiques essentielles du bien et l'existence de garanties avant que je ne paie ?",
+    "reponse_attendue": "Oui, c'est une obligation générale d'information précontractuelle."
+  },
+  {
+    "id": 24,
+    "article": "Article L. 111-1",
+    "type_question": "Complexe",
+    "question": "Je viens d'acheter un service numérique mais le vendeur ne m'a jamais précisé qu'il fallait une configuration informatique très spécifique pour l'utiliser. Ai-je été correctement informé conformément à la loi ?",
+    "reponse_attendue": "Non, le vendeur a manqué à son obligation d'information sur les caractéristiques essentielles (compatibilité/interopérabilité) du service numérique."
+  },
+  {
+    "id": 25,
+    "article": "Article L. 121-2",
+    "type_question": "Explicite",
+    "question": "Quand une pratique commerciale est-elle considérée comme trompeuse selon l'article L. 121-2 ?",
+    "reponse_attendue": "Lorsqu'elle crée une confusion avec un concurrent ou repose sur des allégations fausses/trompeuses concernant les caractéristiques essentielles, le prix, ou la disponibilité du bien."
+  },
+  {
+    "id": 26,
+    "article": "Article L. 121-2",
+    "type_question": "Conceptuelle",
+    "question": "Est-ce légal pour une marque d'afficher un drapeau français sur un produit entièrement fabriqué en Chine pour faire croire au \"Made in France\" ?",
+    "reponse_attendue": "Non, c'est une pratique commerciale trompeuse sur l'origine et les qualités substantielles du produit."
+  },
+  {
+    "id": 27,
+    "article": "Article L. 121-2",
+    "type_question": "Complexe",
+    "question": "Une publicité promettait une réparation \"gratuite\" de mon toit, mais une fois sur place, l'artisan me facture des frais de déplacement et de diagnostic obligatoires. Est-ce une pratique trompeuse ?",
+    "reponse_attendue": "Oui, présenter un service comme gratuit alors que le consommateur doit payer des frais (autres que ceux inévitables liés à la réponse) est une pratique trompeuse."
+  },
+  {
+    "id": 28,
+    "article": "Article L. 612-1",
+    "type_question": "Explicite",
+    "question": "Que garantit l'article L. 612-1 au consommateur concernant le règlement des litiges ?",
+    "reponse_attendue": "Il garantit au consommateur le droit de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable du litige."
+  },
+  {
+    "id": 29,
+    "article": "Article L. 612-1",
+    "type_question": "Conceptuelle",
+    "question": "En cas de conflit avec un commerçant, ai-je le droit de faire appel à un médiateur gratuitement ?",
+    "reponse_attendue": "Oui, tout consommateur a le droit d'accéder gratuitement à un dispositif de médiation de la consommation."
+  },
+  {
+    "id": 30,
+    "article": "Article L. 612-1",
+    "type_question": "Complexe",
+    "question": "Je suis en litige avec mon opérateur téléphonique qui refuse de me rembourser. J'ai envoyé une réclamation écrite sans succès. Puis-je saisir un médiateur et est-ce que cela va me coûter quelque chose ?",
+    "reponse_attendue": "Oui, vous pouvez saisir le médiateur compétent après échec de la réclamation écrite, et cette procédure est gratuite pour vous."
+  },
+  {
+    "id": 31,
+    "article": "Article L. 217-3",
+    "type_question": "Explicite",
+    "question": "Quelle est la durée de la garantie de conformité pour un bien comportant des éléments numériques selon l'article L. 217-3 ?",
+    "reponse_attendue": "Le vendeur répond des défauts de conformité apparaissant dans un délai de deux ans, ou durant la période de fourniture du contenu numérique si celle-ci est supérieure à deux ans."
+  },
+  {
+    "id": 32,
+    "article": "Article L. 217-3",
+    "type_question": "Conceptuelle",
+    "question": "Si j'achète un jeu vidéo en téléchargement ou un objet connecté, combien de temps suis-je couvert contre les défauts de conformité ?",
+    "reponse_attendue": "Vous êtes couvert pendant 2 ans minimum, ou pendant toute la durée de l'abonnement si le service numérique est fourni en continu sur une longue période."
+  },
+  {
+    "id": 33,
+    "article": "Article L. 217-3",
+    "type_question": "Complexe",
+    "question": "J'ai acheté un logiciel avec un abonnement de 3 ans. Au bout de 2 ans et demi, il ne fonctionne plus. Le vendeur est-il encore responsable ?",
+    "reponse_attendue": "Oui, car pour une fourniture continue supérieure à deux ans, la garantie s'applique durant toute la période de fourniture (ici 3 ans)."
+  },
+  {
+    "id": 34,
+    "article": "Article L. 221-5",
+    "type_question": "Explicite",
+    "question": "Quelles informations spécifiques au droit de rétractation l'article L. 221-5 impose-t-il de fournir ?",
+    "reponse_attendue": "Le professionnel doit fournir les conditions, le délai, les modalités d'exercice du droit de rétractation, le formulaire type, et préciser qui supporte les frais de retour."
+  },
+  {
+    "id": 35,
+    "article": "Article L. 221-5",
+    "type_question": "Conceptuelle",
+    "question": "Sur un site de vente en ligne, le vendeur doit-il obligatoirement m'indiquer qui paie les frais de retour en cas de rétractation ?",
+    "reponse_attendue": "Oui, c'est une information précontractuelle obligatoire."
+  },
+  {
+    "id": 36,
+    "article": "Article L. 221-5",
+    "type_question": "Complexe",
+    "question": "J'ai renvoyé un colis volumineux (50kg) en utilisant mon droit de rétractation. Le vendeur me facture 100€ de frais de retour. Il n'avait mentionné nulle part que ces frais seraient à ma charge. Dois-je payer ?",
+    "reponse_attendue": "Non, si le vendeur n'a pas informé le consommateur que les frais de retour étaient à sa charge, ces frais sont supportés par le vendeur."
+  },
+  {
+    "id": 37,
+    "article": "Article L. 221-10-1",
+    "type_question": "Explicite",
+    "question": "Que dit l'article L. 221-10-1 concernant les visites non sollicitées d'un professionnel à domicile ?",
+    "reponse_attendue": "Est interdite toute visite non sollicitée au domicile d'un consommateur lorsque celui-ci a manifesté de manière claire et non ambiguë ne pas vouloir en faire l'objet."
+  },
+  {
+    "id": 38,
+    "article": "Article L. 221-10-1",
+    "type_question": "Conceptuelle",
+    "question": "Un vendeur a-t-il le droit de venir sonner chez moi pour me vendre des fenêtres si j'ai clairement affiché ou dit que je ne voulais pas de démarchage ?",
+    "reponse_attendue": "Non, c'est illégal si vous avez manifesté votre opposition."
+  },
+  {
+    "id": 39,
+    "article": "Article L. 221-10-1",
+    "type_question": "Complexe",
+    "question": "Un commercial s'est présenté à ma porte pour me vendre une assurance alors que j'avais un autocollant \"Stop Démarchage\" bien visible. Il a insisté pour entrer. Cette pratique est-elle légale ?",
+    "reponse_attendue": "Non, cette pratique est interdite car vous avez manifesté votre refus de manière claire via l'autocollant."
+  },
+  {
+    "id": 40,
+    "article": "Article L. 121-6",
+    "type_question": "Explicite",
+    "question": "Comment l'article L. 121-6 définit-il une pratique commerciale agressive ?",
+    "reponse_attendue": "Une pratique est agressive si elle altère la liberté de choix du consommateur par des sollicitations répétées et insistantes ou l'usage d'une contrainte physique ou morale."
+  },
+  {
+    "id": 41,
+    "article": "Article L. 121-6",
+    "type_question": "Conceptuelle",
+    "question": "Si un vendeur me met la pression, me menace ou refuse de quitter ma maison tant que je n'ai pas signé, est-ce une pratique agressive ?",
+    "reponse_attendue": "Oui, l'usage de la contrainte ou le harcèlement pour forcer la signature constitue une pratique commerciale agressive."
+  },
+  {
+    "id": 42,
+    "article": "Article L. 121-6",
+    "type_question": "Complexe",
+    "question": "Une personne âgée a signé pour 5000€ de travaux après qu'un vendeur soit resté chez elle pendant 4 heures en insistant lourdement et en refusant de partir. Peut-on faire annuler le contrat pour pratique agressive ?",
+    "reponse_attendue": "Oui, le contrat est nul car le consentement a été vicié par des sollicitations insistantes et une contrainte morale caractérisant une pratique agressive."
+  },
+  {
+    "id": 43,
+    "article": "Article L. 217-10",
+    "type_question": "Explicite",
+    "question": "Quel est le délai raisonnable mentionné à l'article L. 217-10 pour la mise en conformité du bien ?",
+    "reponse_attendue": "La mise en conformité doit avoir lieu dans un délai raisonnable qui ne peut être supérieur à trente jours suivant la demande du consommateur."
+  },
+  {
+    "id": 44,
+    "article": "Article L. 217-10",
+    "type_question": "Conceptuelle",
+    "question": "Le vendeur peut-il garder mon appareil en réparation pendant 2 mois sans me proposer de solution ?",
+    "reponse_attendue": "Non, la réparation doit être effectuée dans un délai maximum de 30 jours."
+  },
+  {
+    "id": 45,
+    "article": "Article L. 217-10",
+    "type_question": "Complexe",
+    "question": "J'ai rapporté mon téléphone en panne au SAV il y a 40 jours. Ils n'ont toujours pas fini la réparation. Puis-je exiger l'annulation de la vente et le remboursement ?",
+    "reponse_attendue": "Oui, car le délai maximal de 30 jours pour la mise en conformité est dépassé, ce qui ouvre droit à la résolution du contrat (article L. 217-14)."
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "code": "Code de la Consommation",
+    "article": "L221-18",
+    "text": "Le consommateur dispose d'un délai de quatorze jours pour exercer son droit de rétractation d'un contrat conclu à distance, à la suite d'un démarchage téléphonique ou hors établissement, sans avoir à motiver sa décision ni à supporter d'autres coûts que ceux prévus aux articles L. 221-23 à L. 221-25. Le délai mentionné au premier alinéa court à compter du jour : 1° De la conclusion du contrat, pour les contrats de prestation de services et ceux mentionnés à l'article L. 221-4 ; 2° De la réception du bien par le consommateur ou un tiers, autre que le transporteur, désigné par lui, pour les contrats de vente de biens.",
+    "metadata": {
+      "titre": "Droit de rétractation",
+      "chapitre": "Contrats conclus à distance et hors établissement",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226842"
+    }
+  },
+  {
+    "code": "Code de la Consommation",
+    "article": "L217-4",
+    "text": "Le bien est conforme au contrat s'il répond notamment, le cas échéant, aux critères suivants : 1° Il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévues au contrat ; 2° Il est propre à tout usage spécial recherché par le consommateur, porté à la connaissance du vendeur au plus tard au moment de la conclusion du contrat et que ce dernier a accepté ; 3° Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis conformément au contrat ; 4° Il est mis à jour conformément au contrat.",
+    "metadata": {
+      "titre": "Garantie légale de conformité",
+      "chapitre": "Conformité du bien"
+    }
+  },
+  {
+    "code": "Code de la Consommation",
+    "article": "L217-3",
+    "text": "Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de deux ans à compter de celle-ci. (...) Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.",
+    "metadata": {
+      "titre": "Durée de la garantie",
+      "chapitre": "Garantie légale de conformité"
+    }
+  },
+  {
+    "code": "Code de la Consommation",
+    "article": "L221-28",
+    "text": "Le droit de rétractation ne peut être exercé pour les contrats : 1° De fourniture de services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation ; 2° De fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier échappant au contrôle du professionnel et susceptibles de se produire pendant le délai de rétractation ; 3° De fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ; 4° De fourniture de biens susceptibles de se détériorer ou de se périmer rapidement.",
+    "metadata": {
+      "titre": "Exceptions au droit de rétractation",
+      "chapitre": "Contrats conclus à distance"
+    }
+  }
+]
